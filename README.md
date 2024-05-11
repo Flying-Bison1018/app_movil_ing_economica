@@ -1,3 +1,8 @@
+# autores
+Daniel Ricardo Piña
+Luis Contreras maldonado
+Harold Chamat
+
 # interest_app
 
 A new Flutter project.
