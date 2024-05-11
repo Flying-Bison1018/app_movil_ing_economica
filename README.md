@@ -1,7 +1,9 @@
 # autores
-Daniel Ricardo Piña
-Luis Contreras maldonado
-Harold Chamat
+Daniel Ricardo Piña,
+
+Luis Contreras maldonado,
+
+Harold Chamat,
 
 # interest_app
 
